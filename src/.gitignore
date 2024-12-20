@@ -1,2 +1,10 @@
-# .gitignore
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables file
 .env
+
+# Other files or directories to ignore
+dist/
+build/
+coverage/
